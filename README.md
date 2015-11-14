@@ -1,6 +1,6 @@
 # Fusion Table Searchable Map Template
 
-[See the working demo &raquo;](http://thechadwix.github.io/FusionTable-Map-Template/index_iframe.html)
+[See the working demo &raquo;](http://thechadwix.github.io/FusionTable-Map-Template)
 
 
 
